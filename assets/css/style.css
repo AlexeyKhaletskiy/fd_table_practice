@@ -29,7 +29,8 @@ thead th:first-child{
   border-top-left-radius: var(--radius);
   background-color: #7987ac;
 }
-thead th:first-child::first-letter{
+thead th:first-child::first-letter,
+tbody td::first-letter{
   text-transform: uppercase;
 }
 thead th:nth-child(2){
