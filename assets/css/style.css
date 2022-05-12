@@ -84,6 +84,7 @@ tfoot button{
   min-width: 70%;
   max-width: 90%;
   padding: 8px 5px ;
+  border: none;
   background-color: #d3d3d3;
   white-space: nowrap;
   overflow: hidden;
